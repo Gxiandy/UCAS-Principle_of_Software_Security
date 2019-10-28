@@ -1,5 +1,5 @@
 # UCAS-Principle_of_Software_Security
-研究生课程《软件安全原理》第一次大作业
+研究生课程《软件安全原理》第二次大作业
 ## 作业内容
 编写Linux下能够完成常见功能的rootkit以了解其原理
 ## 主要功能
